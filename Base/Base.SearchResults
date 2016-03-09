@@ -1,0 +1,8 @@
+---- BlockCommandProc Matches (2 in 1 files) ----
+quicker.em:        BlockCommandProc()
+quicker.em:macro BlockCommandProc()
+---- AutoInsertTraceInfoInBuf Matches (2 in 1 files) ----
+quicker.em:macro AutoInsertTraceInfoInBuf()
+quicker.em:                AutoInsertTraceInfoInBuf()
+---- AutoInsertTraceInfoInPrj Matches (1 in 1 files) ----
+quicker.em:macro AutoInsertTraceInfoInPrj()
